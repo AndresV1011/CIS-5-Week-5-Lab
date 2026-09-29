@@ -5,7 +5,8 @@
 **Type:** Lesson week
 
 
-## Demo video (required)
+## Demo video: Here is my video
+https://drive.google.com/file/d/1h4ojHIWVm9OQRB_cbnxOuLOyAzDK6Et8/view?usp=sharing
 
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
